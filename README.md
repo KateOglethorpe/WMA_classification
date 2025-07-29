@@ -7,6 +7,6 @@ This repository contains the **Jupyter notbooks** used to generate the *Water Ma
 
 Co-authors: Kate Oglethorpe (University of Cambridge, ko389@cam.ac.uk), Joshua Lanham, Rafael S. Reiss, Emma J.D. Boland, Alberto C. Naveira Garabato, Colm-Cille P. Caulfied, Ali Mashayek. 
 
-Related publication: Water Masses of the Arctic (WMA) from 40 Years of Hydrographic Observations (submitted to Nature Scientific Data). 
+Related publication: Water Masses of the Arctic (WMA) from 40 Years of Hydrographic Observations (submitted to Nature Scientific Data Jul 2025). 
 
 Related dataset: WMA dataset will be publicly available upon publication.

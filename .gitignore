@@ -1,0 +1,17 @@
+# Top-level folders to ignore
+data_products/
+sci_paper_scripts/
+
+# Subfolders inside compiling_observations to ignore
+compiling_observations/compiled_data/
+compiling_observations/processed_data/
+
+# Subfolders inside wma_classification_tool to ignore
+wma_classification_tool/2_ML_extension/saved_ML_model/
+wma_classification_tool/generate_paper_figures.ipynb
+
+# Optional extras to keep things clean
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+__pycache__/

@@ -1,6 +1,7 @@
 # Top-level folders to ignore
 data_products/
 sci_paper_scripts/
+generate_paper_figures_all.ipynb
 
 # Subfolders inside compiling_observations to ignore
 compiling_observations/compiled_data/

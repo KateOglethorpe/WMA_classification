@@ -11,6 +11,7 @@ compiling_observations/processed_data/
 
 # Subfolders inside wma_classification_tool to ignore
 wma_classification_tool/2_ML_extension/saved_ML_model/
+wma_classification_tool/1_OMP_analysis/pyompa/
 
 # Optional extras to keep things clean
 .ipynb_checkpoints/
